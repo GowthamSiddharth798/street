@@ -1,0 +1,72 @@
+.background_main{
+    background-color: rgb(105, 178, 170);
+    background-size: cover;
+    height: 200vh;
+    opacity: 0.8;
+    text-align: center;
+}
+.hamb{
+    margin-top: 15px!important;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.head-main{
+    background: linear-gradient(120deg, #9c65b1, #6e2929, #5b1abc);
+    height: 13vh;
+    
+}
+.in-line{
+    display: flex;
+    padding: 6px;
+    
+}
+.title{
+    margin-top: 20px;
+    color: aliceblue;
+    margin-left: 10vh;
+    margin-right: 20vh;
+}
+.main-heading {
+    font-size: 26px;
+    text-shadow: 90px;
+    margin-top: 50px;
+    color: #000000;
+    margin-top: 18px;
+
+}
+.heading {
+    margin-right: 30px;
+    font-size: 24px;
+    color: #000000;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.vit-logo {
+    background-image: url("https://i.ibb.co/Cm04CR4/vishnu-logo.jpg");
+    height: 75px;
+    border-radius:100%;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin: 20px;
+    margin-top: 5px;
+    box-shadow: #3498db;
+}
+
+
+.main-logo {
+    height: 75px;
+    width: 80px;
+    border-radius:100%;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+
+
+  
+  
+  
+  
+  
+  

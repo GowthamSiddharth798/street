@@ -1,0 +1,8 @@
+.position{
+    display: flex!important; 
+    padding: 50px;
+}
+
+.card-side{
+    width: 20vh!important;
+}
